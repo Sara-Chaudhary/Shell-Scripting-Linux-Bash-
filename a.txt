@@ -1,0 +1,9 @@
+a.txt
+exitcodes.sh
+io.sh
+loop1.sh
+loop2.sh
+loop3.sh
+loop4.sh
+myscript.sh
+text.sh
