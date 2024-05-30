@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Checks command-line arguments.
+
+echo "Script: $0"
+echo "Number of items on the command line: $#"
+echo "1st argument : $1"
+echo "2nd argument : $2:"
+echo "All argumnets : [$*]"
+
